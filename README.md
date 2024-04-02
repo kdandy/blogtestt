@@ -1,4 +1,4 @@
-# samuelkraft.com
+# 
 
 My personal website/portfolio/blog.
 
